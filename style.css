@@ -111,14 +111,16 @@ header ul li a{
     max-width: 0px;
 }
 
+*/
 .thumb{
-    position:none;
-    left: 0%;
-    transform: translateX(-0%);
-    bottom:0px;
+    position:absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom:20px;
     display:flex;
 }
 
+/*
 .thumb li{
     list-style:none;
     display: inline-block;
