@@ -130,11 +130,13 @@ header ul li a{
 .thumb li:hover{
     transform: translateY(-0px);
 }
+*/
 
 .thumb li img{
-    max-width: 0px;
+    max-width: 40px;
 }
 
+/*
 .sci{
     position:none;
     top:0%;
