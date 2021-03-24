@@ -19,18 +19,19 @@ section{
     transition: 0.5s;
 }
 
-/*
+
 header{
-    position:none;
+    position:absolute;
     top:0;
     left:0;
-    width: 0%;
-    padding: 0px 0px;
+    width: 100%;
+    padding: 20px 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
+/*
 header .logo{
     position:none;
     max-width: 0px;
