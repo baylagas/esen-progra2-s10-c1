@@ -136,18 +136,18 @@ header ul li a{
     max-width: 40px;
 }
 
-/*
+
 .sci{
-    position:none;
-    top:0%;
-    right:0px;
-    transform: translateY(-0%);
+    position:absolute;
+    top:50%;
+    right:30px;
+    transform: translateY(-50%);
     display:flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-
+/*
 .sci li{
     list-style: none;
 }
